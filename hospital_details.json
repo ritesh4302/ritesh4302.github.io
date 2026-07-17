@@ -1,0 +1,54 @@
+{
+  "name": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+  "category": "Hospital",
+  "full_address": "Kaanav Children SuperSpeciality Hospital, Vesu Surat, Galloping Corridor, 203, Vesu Canal Rd, nr. Money Arcade, near GD Goenka School, Vesu, Surat, Gujarat 395007",
+  "address_lines": [
+    "Galloping Corridor",
+    "203, Vesu Canal Rd",
+    "nr. Money Arcade, near GD Goenka School, Vesu",
+    "Surat, Gujarat 395007"
+  ],
+  "phone": "078741 91191",
+  "phone_intl": "+91 78741 91191",
+  "website": null,
+  "rating": 4.9,
+  "review_count": 580,
+  "hours": {
+    "status": "Open 24 hours",
+    "weekly": {
+      "Monday": "Open 24 hours",
+      "Tuesday": "Open 24 hours",
+      "Wednesday": "Open 24 hours",
+      "Thursday": "Open 24 hours",
+      "Friday": "Open 24 hours",
+      "Saturday": "Open 24 hours",
+      "Sunday": "Open 24 hours"
+    }
+  },
+  "coordinates": {
+    "lat": 21.1495455,
+    "lng": 72.7886321
+  },
+  "plus_code": {
+    "compound_code": "4QXQ+RF Surat, Gujarat, India",
+    "global_code": "7JHJ4QXQ+RF"
+  },
+  "place_id": "ChIJ9Y2DPVFN4DsRdQm_eF3picM",
+  "cid_hex": "0x3be04d513d838df5:0xc389e95d78bf0975",
+  "google_maps_url": "https://maps.app.goo.gl/ozLSJBC5hAzECpRAA",
+  "timezone": "Asia/Calcutta",
+  "photo_count": 10,
+  "business_status": "OPERATIONAL",
+  "types": [
+    "doctor",
+    "establishment",
+    "health",
+    "hospital",
+    "point_of_interest"
+  ],
+  "google_maps_canonical_url": "https://maps.google.com/?cid=14090049496872323445",
+  "data_sources": [
+    "Google Maps web (scraped)",
+    "Google Places API (official)"
+  ]
+}

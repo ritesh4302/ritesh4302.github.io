@@ -1,0 +1,114 @@
+{
+  "note": "Scraped set (photos): owner cover photo, owner-post photo, Street View. api_photos: full gallery (10) from the official Places API; api_photo_1 duplicates the cover photo (hospital_photo_1).",
+  "photos": [
+    {
+      "type": "cover_photo",
+      "photo_id": "CIHM0ogKEICAgICjouHKAw",
+      "source": "owner (Google Business Profile), uploaded 2024-04-19",
+      "original_size": "7360x4912",
+      "thumbnail_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEubYXXF9svChkbveOSHZZ0ql9JGvScR8Be78QLeUT6_eEfPAhOJtlxEw3XThDJdJRSs-3tifRg7lWa8MiS1CZpLp0o2iAXM9-sMmt3saGrdePtdDyOlyX8yVRNMga-4r_Mh1GJ=w408-h272-k-no",
+      "large_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEubYXXF9svChkbveOSHZZ0ql9JGvScR8Be78QLeUT6_eEfPAhOJtlxEw3XThDJdJRSs-3tifRg7lWa8MiS1CZpLp0o2iAXM9-sMmt3saGrdePtdDyOlyX8yVRNMga-4r_Mh1GJ=w1600",
+      "original_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEubYXXF9svChkbveOSHZZ0ql9JGvScR8Be78QLeUT6_eEfPAhOJtlxEw3XThDJdJRSs-3tifRg7lWa8MiS1CZpLp0o2iAXM9-sMmt3saGrdePtdDyOlyX8yVRNMga-4r_Mh1GJ=s0",
+      "local_path": "assets/images/hospital/hospital_photo_1.jpg",
+      "downloaded_size": "7360x4912"
+    },
+    {
+      "type": "owner_post_photo",
+      "source": "owner update post (pediatric asthma & allergy checkups, Jun 2026)",
+      "thumbnail_url": "https://lh3.googleusercontent.com/geougc/AF1QipME-DOhciQxonyIMD1O6s7ucaEhDwpYC6JiOr81=h400-no",
+      "large_url": "https://lh3.googleusercontent.com/geougc/AF1QipME-DOhciQxonyIMD1O6s7ucaEhDwpYC6JiOr81=s0",
+      "local_path": "assets/images/hospital/hospital_photo_2.jpg",
+      "downloaded_size": "582x709"
+    },
+    {
+      "type": "street_view",
+      "pano_id": "kJv80zYq2nsFuWaDBHbLMA",
+      "source": "Google Street View (captured 2026-02)",
+      "large_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kJv80zYq2nsFuWaDBHbLMA&cb_client=search.gws-prod.gps&w=1920&h=1080&yaw=311.95712&pitch=0&thumbfov=100",
+      "local_path": "assets/images/hospital/hospital_streetview.jpg",
+      "downloaded_size": "1024x576"
+    }
+  ],
+  "api_photos": [
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "4800x3203",
+      "attribution": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+      "photo_reference": "AWCwydhELwmf7YMuN4ZmYN0VOTWJRSn5V_7GYq2IiB28xw9CyVC5AT2CAx8nq_PcObmFjoJ81qC2aThGFea4iD5IdlimiMy7Ukp7sePQyFv8A6mH-xkmxGPwwSYmd4KBAQAjXlFIrovwVKaZ2bSqNjWx0YInKIsxriRmZhTIJD-5CKooPJVmEbXHhnGAT1a1cz21tHdcoi9qwFQJOYmbUlk_g3nZo1UXzhE-8QxuM3rN5vBa8j6TuNCx0Y48LmUfEQNa52t-mRn5-Ijo-Lt6aoDSX-KBzyl958RRPmInu21P4nCAYXpcmLllY21KWHDy9Ymz20bUKvjW7fV8p2nL8RCroq5VkyK8pFdnym9SsQAw6HpP9NCVMjuoLGwZUyQtTwNgZStQrJ0NfyqnV8l7Kmb_zrb8EmEr2EkslV9ZEXKeBUpX-w",
+      "local_path": "assets/images/hospital/api_photo_1.jpg"
+    },
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "1599x941",
+      "attribution": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+      "photo_reference": "AWCwydjgYA4_86Ycp0Auj5MkHJvJIbfECQ1ww5zoIGR-ZST91fo6bUPCg_Nszva1QTBASOkY2zBYrHvPd_4qN8UPrFgCX8aW5bh2QtdV1VbvNe_R8X0wAlF8AftQCP8SBqb2mQKTMYeJ4oI7uKt0Vnoy_y2Z-U--TiwLFaORPhJvgHtrSHtWLA8xXXXMWPaONxe0sXYmVPmMJRuFjR3FRe_H0_PHLeA5f7gWDwfx1yTgo39BmjOgI3CeE-M8fKB0tpPTm1pfazxQTdEMZdJh8JVwnbtgUqWhDfkczsw7DYwJuh1bfUBvFWM6aE4NK7anwg9LTlY-83wrm8NxQYiEQCO8RDwGGV6_jfphM0vxJS0n20nSpdTGqXkBUFkoz9SLY9t37tWepEHR-J0dZH_SJW6gj-_3gpa0JT6_y_VQA56NcSih2UQ",
+      "local_path": "assets/images/hospital/api_photo_2.jpg"
+    },
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "1599x1150",
+      "attribution": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+      "photo_reference": "AWCwydjpKc0gw-ad7sPPKL3RlOG0qY_obu6CVfZERXst6rBX3hwsbzaj_sYO9XaG4JuZ2vk0v7EG1pHy0d4AJrrC0B6Tk2tl5rBnp2r9s5fDUUAqpJL2jOTpOW-7HFoeIfxMD3n8FYtjpjB8MckH2mUSEInqtxooCsYrcAiHht_0jt7iFV-geZRPQlhsc0vX8jDfwt1enZU5n3I95wUEkiFTaEwBPJ1sc2eAB3YWjChLC8H2VQ70LdIAaj0hFeX6w7DzxNleT7w24RSKuYJrxyUXlxHh4kfxRZADHNHFWWJIJP46uiw3uoxmpqkFNUe-0gRg9U7brpv5nm_GWoF8ZqJR5v1BUxb5kRqCbcmvVzMWo7SqeiP5iVNMxXglbGQ5dgtETNzsgXslhvzPUXat3DHTiJbkNbAhM2stXfZPU5ZxLqIfiw",
+      "local_path": "assets/images/hospital/api_photo_3.jpg"
+    },
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "1600x1200",
+      "attribution": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+      "photo_reference": "AWCwydjUIxwP38fozioGaKT2SYBfw9_9ajEXV_sMqXK5ThBH1sBrhJp9f7BBcEbqN_vtnhXlqaBs4HKOEHBpEVpS5T_nzHURGVrvP1-MBPp9_8IEu4oK_P3uS1Ek59jT6L6mujQ4sNYqTXdfHvbGIfzXNn7-zi0SjSajXbLA1ALJfMK6xaWwDvOFghOFt7eKy9aFHoUReXbuxI_dwZ8RjMOqY1JqZkTdjcE31b-ciEwv7ecgvJ_bwweEc8mhR_IMMnEBzMCUQxQtPQJYnRj4UoVETMLuyDIOxZkox1YkMwWRGFH2C3DhcO0z4dAgWLt8JsEjp_3fWebSAaSa9N429H6qWWU1uVUPL8vb9cga-RnmimuozU8awJNi7CQyMBt5p0qJwAKXD1prY2jRukGZyvTCLTMEZ123LVnHidz3KUE_URw3vM-2",
+      "local_path": "assets/images/hospital/api_photo_4.jpg"
+    },
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "3024x4032",
+      "attribution": "Vasudev Talaviya",
+      "photo_reference": "AWCwydgnuxalAB_1kRix4jyHbioy4Ebe4HozXlpgIP5h1vZRCkMKmdG9Ua7iYrx45p-tX4b6SWyXKV8dgOMpaiAu88farzhQmALVd_DlkqSbmHrztc07W038zP3ZdLpGgnbxkiC-SeZgdJBvV-VOyv1KYVMNjIvo5AdPyJPIIiKmPnL2No7LX8DFUhsasRJVEFa8YZSDNBwFphlcVoMFjx8F8uc0iKrcVfGJR7p_hepi-Kz3QNAKeGy4EahlkhZahXexZyxB-2qNxWZuWtkKeLu5raMTObKAzuVJrAWFA2pl755LaaIkbAbVj1Qt-XbFil28hyh3SBJFCWYXYHn_k7qzMv5VQtASTyHcHQMYC8iznCYST2Pm0xbYw2r--GX9zNWvfALWfgGabJ8S9THwKvj4lSu4iUfehiQjxkWspkve39AaMjIl",
+      "local_path": "assets/images/hospital/api_photo_5.jpg"
+    },
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "4800x3203",
+      "attribution": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+      "photo_reference": "AWCwydiJT5G3hSqCM2LAleBEzVeE9sBs1sYCNd-r8qXXJjfnvJb2qtcYtsQlJY-CB24IUg6WH3sLWGoPZ1_SejfEZbykdoTit1H7PfcjF6hkNyiTMS22KXDkKKJszubJhl-Zbyu_AnDRvCZmEw-oDuuZPtZW15TRy1ICPWKlurac6OaigI1KVt9dDdiIX-sa0YaDmU-lRTr9nG94_Shz_pEjwY6L2a-ZHBrHEmq8SfVFxwZraIISIm3P1nBuRbqDr0Lg3H6K3DWhWSJN6nz1lK0jvMpnnElbac4fsmF60cLeh7w36M9VYMqVHDQ-jZwGdhktZLdDRvviZjON4nrnO1PCFZ18F2CcwZgoypxTtSRPcVvtulVGeiBNnl9I02-VEarwj3SYkpY_6wasTW2bJVIASviOH7XGgxQMisNSxS7OCazkpw",
+      "local_path": "assets/images/hospital/api_photo_6.jpg"
+    },
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "1599x1150",
+      "attribution": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+      "photo_reference": "AWCwydhnuT9wd6TdLDYJMtDmgBQDSkm5e4ZB7-c0RwkstmU9BLUfhArKiNIkiIhhq2TNZmwTQ8T84EwKd0OrQiv9g9QfmRrwUoJCAO7jN6QJo5O4mS93-Z2yL7ztMVc6-41flRR2BGJl8sHB21lgQ_GDx6m66KrCWCvP91im_WJr9DG7HamCS-U7C5D926WRBioEl6K-XM9M5Odax4oAWWiMZnUDgX3pya6lowjXXzw7mg-EvH5P1oE_1zZykNePS14tUbFQZ0R8A0GwCV1ATi_QPcBxRO8KUv174cNF7aRCeu8O0vo1VFlNCH31UPZ_I28Q-lVZ-iDinmJ_zniq-FFq_ld70BLBn5TdTckhmW3mB33KT9J-WLj_d8mMPA_5c3AlbyPGppJbihmDCNSlCqTJJSxmrHFQY2QLALeFXgQCXYjE5qWZ",
+      "local_path": "assets/images/hospital/api_photo_7.jpg"
+    },
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "1599x941",
+      "attribution": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+      "photo_reference": "AWCwydjl5VTaHuL1DxtCa4Qid_Loh05-ODmzvZf_z1G-2LEY0ykVFlK02cKnELlheNUaYIYx7Oj-HThHbfIT4f-JFvGDDXX0AYk-foVDuh39Nm4yKrkXmrr5iPv1szyBsyUm7M0MFZs6Gu7bNkPsH3M3BKAZ3c8UDwJ_A8nMQ9rLt8WCEL7b4r8V33ljGQQ-HSw2FHb7B-uiRCP7AmzM1NcBEKEHragCZSPvJCDUszldyv_XwktVY-mtCJlTqoaeY3aE15NNN-_3JyPPAoCOl4oR6yr_2EwPf6tTm7yto2qSOrdNuepSxYqOylU-4zLrYVzXfBeGlBlx0f9nDjBSMi5vUAOEWBkHYCyOMdDrJ_VyfhDjuP6OIAtC6N1yUJv-BomNiEuPM5CTdcWdcBg81Tkii4fv8RgOJF1mPQ7Q89yj1ThACg",
+      "local_path": "assets/images/hospital/api_photo_8.jpg"
+    },
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "4000x1824",
+      "attribution": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+      "photo_reference": "AWCwydhzhd5LPnwjL89TBmue4xzohBNzCwjPoXjHebS72hsenEdPA62ulT-ynq2QDS1SEprPEBGG-8v4FElF64WRfvSoINkKqQgLUA5efsq9efcgFfAMErZK6yx_QVaaB0htpB1dIbMt9jbxMnOcrJQJ3u5bJZbniRFciR_J3TyNY6kYuJ3QgcVk-nPoxYBzsbtmpl1l983V7qp0FSziUg-X8h6U5ky4zO3ds_zhJJiPv11mzQJXH4HKYERSbzEkVna5XoX5v568OQ0wcvEMCtejXWmTNRyQUKVpiJHzYQ8pQxq0C-dMKfjCeqkjfYl-tOYcjW-058tPC-fc2-NIne3fqiUT-CMPNvLwjZ44A5Hjxr20fBZ3QcTHLWTABDMqgl0H02AbsCg9rjKzYeNXp31DdV60AGxkP8nMfX7C7GGc14ynuVI8LNzGRO7Ajio5YaTi",
+      "local_path": "assets/images/hospital/api_photo_9.jpg"
+    },
+    {
+      "type": "gallery_photo",
+      "source": "Google Places API",
+      "original_size": "960x1280",
+      "attribution": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+      "photo_reference": "AWCwydh52ox3npsJwnRYPdtOUh8N1mbA1bwDpJqE2Han2ZKgXdiDcalWrFo-6NKf43OKPwJvLmnQ-Zn5ZMBQKtUd4Mqc-wQt6EA23Hs6qZPLsIUMpk9Xx0sDfUGpnLgjGjyuqS2iGvvDz-ue-gCRoLviODbq3LyBenGI7SsdRb1Ayy5O_q5NXxc5h4Tn3kdVKDRaRyKwVBMZfVd5jrWJtuK65OqSESoRG-GPb5e7Nz4TXskf8YNv-z5r8fmAb82lQK3dm9e8YEo5zvTber2uiiJuar-Q07S03G4C6UxEPoDbzuZ3gCyaAjG2jZAdd03IrzIXJIGOrOiWL5GNcymYwD5VfrMZxObym7ID1Nka3p9PhznlhnR9A1U2nzNhqMUmTgBOiiE1s86tCOQOC5qjN8BjONfyVPNHe5RutFCfiKcN0uJhZg",
+      "local_path": "assets/images/hospital/api_photo_10.jpg"
+    }
+  ]
+}
