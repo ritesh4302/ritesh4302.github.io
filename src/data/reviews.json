@@ -1,0 +1,71 @@
+{
+  "place": "Kaanav Children SuperSpeciality Hospital, Vesu Surat",
+  "place_id": "ChIJ9Y2DPVFN4DsRdQm_eF3picM",
+  "cid_hex": "0x3be04d513d838df5:0xc389e95d78bf0975",
+  "summary": {
+    "rating": 4.9,
+    "review_count": 580,
+    "note": "Aggregate from the official Google Places API. The API returns at most 5 'most relevant' reviews; the full 580 are only visible on Google Maps itself."
+  },
+  "reviews": [
+    {
+      "author": "karunakaran singh",
+      "rating": 5,
+      "relative_time": "5 months ago",
+      "time": 1768843146,
+      "text": "⭐⭐⭐⭐⭐ Excellent Care & Highly Recommended\nWe had a very good experience at Kaanav Hospital for our 1-year-old child. The doctors are extremely knowledgeable, calm, and supportive. They explained everything clearly and guided us properly at every step.\nThe hospital staff is very caring, polite, and attentive, especially towards children. Our baby was admitted for fever and infection, and the treatment, monitoring, and care were excellent. Doctors responded quickly, medicines were given on time, and our child was kept under close observation.\nThe hospital is clean, well-maintained, and child-friendly. We felt confident and relieved knowing our baby was in safe hands.\nSpecial thanks to the doctor and nursing team for their professionalism, patience, and dedication.\nHighly recommended Kaanav Hospital for pediatric care.",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjfLvGum6PKAwonmpjXeExYggLCqJw_ug3hjYNtxJ3hBvm9QXF0Q=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "author": "Vishnumaya Vijesh",
+      "rating": 5,
+      "relative_time": "3 months ago",
+      "time": 1775638279,
+      "text": "We visited the hospital thrice. And the three times we had good experience; both from the doctor and the staff.\n\nThe staffs are extremely polite and have friendly attitude. And doctor, he was patient with my son; listened to our concerns patiently and suggested the treatment. He suggests mild doses of medicines which was exactly what we needed.\n\nWe had a pleasent experience from side of doctor and staff. I actually recommends Kaanav hospital to others. They are extremely child friendly.",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImRWRiTiEV_vJcwroTRLQj1zHWKZRQlqCnd_Ztth0irx5AQw=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "author": "Varun Gupta",
+      "rating": 1,
+      "relative_time": "6 months ago",
+      "time": 1767722245,
+      "text": "My newborn had to undergo unnecessary suffering and surgery due to the hospital’s shocking carelessness. Instead of administering the BCG vaccine in the arm as per standard medical protocol, the doctor injected the BCG vaccine into my baby’s thigh. This error caused a deep muscular pus infection in the thigh, which had to be surgically removed.\nNo parent should have to watch their newborn go through this kind of trauma because of negligence. A hospital is meant to be a place of trust, especially for newborn care, but this experience has completely shaken our faith.\nI sincerely hope the hospital takes strict accountability, reviews its vaccination protocols, and ensures that no other child or family has to face what we went through.",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5rkLqCe0O-sZ--OdlTmTNYjhptT0mZZ5gNu1xxnLCH8Ufcg=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "author": "mitesh kakkad",
+      "rating": 5,
+      "relative_time": "7 months ago",
+      "time": 1763820246,
+      "text": "Dr Rohit took the time to listen so we could make the best decision for our kid when he had Milk Allergy. He is very caring and informative. We are very much happy and satisfied with his treatment. Also hospital staff callef after 2 days for follow up checkin which was extraordinary.",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzCsBXngfYEWxCncZxovONlZ00j3VBlAxZpNAzXNtwr76i4NemWA=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "author": "Ranu Rajput",
+      "rating": 5,
+      "relative_time": "a month ago",
+      "time": 1781077197,
+      "text": "My 10 year girl Chabi had Asthma and she was suffering since 1 year. We meet Dr Rohit Agarwal he explained everything and with proper treatment now she is doing well. We are thankful to whole staff and team of Kaanav Children Hospital",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7xY-6N7P_a1aMzGSiE02WApYw0RNXOEcqg6AA4Uy37ywiOw=s128-c0x00000000-cc-rp-mo"
+    }
+  ],
+  "owner_posts": [
+    {
+      "type": "owner_update",
+      "date": "2026-06-11",
+      "text": "Changing weather can trigger asthma in children. Visit Kaanav Children Hospital, Vesu for expert pediatric asthma & allergy checkups."
+    }
+  ],
+  "extraction": {
+    "extracted_at": "2026-07-10",
+    "methods_attempted": [
+      "google.com/maps/rpc/listugcposts (4 sort orders) - returned empty",
+      "google.com/maps/preview/review/listentitiesreviews - retired/empty",
+      "google.com/async/reviewDialog - HTTP 404 (retired)",
+      "search.google.com/local/reviews?placeid=... - redirects to JS-only page",
+      "Headless Chrome render of Maps reviews tab (!9m1!1b1) - no review cards rendered",
+      "Google Places API Place Details (official) - SUCCESS: rating 4.9, 580 total ratings, 5 reviews, 10 photos"
+    ],
+    "recommendation": "Re-run scripts/fetch_reviews.py periodically; if the listing accumulates public reviews, the RPC will begin returning them. Alternatively, use the official Google Places API (Place Details, 'reviews' field) with an API key for up to 5 reviews."
+  }
+}
